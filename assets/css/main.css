@@ -3326,13 +3326,13 @@
 			width: 25em;
 		}
 
-		#cta input[type="submit"],
+		#cta form input[type="submit"],
 		#cta input[type="reset"],
 		#cta input[type="button"],
 		#cta .button {
 			box-shadow: none;
-			background: #142524;
-			color: #ffffff;
+			background: #142524 !important;
+			color: #ffffff !important;
 		}
 
 		#cta input[type="text"],
