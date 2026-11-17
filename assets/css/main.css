@@ -2931,7 +2931,7 @@
 	}
 
 	#header {
-		background: #444;
+		background: #008080;
 		color: #bbb;
 		cursor: default;
 		height: 3.25em;
@@ -3071,7 +3071,7 @@
 			-webkit-animation: none;
 			-ms-animation: none;
 			animation: none;
-			background: none;
+			background: #008080;
 			color: rgba(255, 255, 255, 0.75);
 			position: absolute;
 		}
