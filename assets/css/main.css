@@ -2931,7 +2931,7 @@
 	}
 
 	#header {
-		background: #008080;
+		background: #008080 !important;
 		color: #bbb;
 		cursor: default;
 		height: 3.25em;
@@ -3071,7 +3071,7 @@
 			-webkit-animation: none;
 			-ms-animation: none;
 			animation: none;
-			background: #008080;
+			background: #008080 !important;
 			color: rgba(255, 255, 255, 0.75);
 			position: absolute;
 		}
@@ -3567,7 +3567,7 @@
 					}
 
 					#navButton .toggle:before {
-						background: rgba(192, 192, 192, 0.75);
+						background: #008080;
 						border-radius: 6px;
 						color: #fff;
 						content: '\f0c9';
@@ -3603,7 +3603,7 @@
 				top: 0;
 				width: 275px;
 				z-index: 10002;
-				background: #2b2b2b;
+				background: #008080;
 				color: #bbb;
 			}
 
