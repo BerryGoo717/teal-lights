@@ -3329,14 +3329,13 @@
 		#cta .interest-form-options {
 			align-items: center;
 			display: flex;
-			flex-wrap: wrap;
+			flex-direction: column;
 			gap: 1.5em;
 			justify-content: center;
 		}
 
 		#cta .qr-code-slot {
 			align-items: center;
-			border: 2px dashed rgba(255, 255, 255, 0.8);
 			display: flex;
 			height: 9em;
 			justify-content: center;
