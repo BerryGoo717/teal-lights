@@ -2960,6 +2960,13 @@
 				border: 0;
 			}
 
+			#header h1 .site-logo {
+				height: 1.4em;
+				width: auto;
+				margin-right: 0.35em;
+				vertical-align: middle;
+			}
+
 		#header nav {
 			height: inherit;
 			line-height: inherit;
